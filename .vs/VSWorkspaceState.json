@@ -3,9 +3,10 @@
     "",
     "\\cypress",
     "\\cypress\\integration",
-    "\\cypress\\integration\\Sharelan",
+    "\\cypress\\integration\\pageObjects",
+    "\\cypress\\integration\\pageObjects\\automationpractice",
     "\\cypress\\integration\\Sharelan\\Sharelan"
   ],
-  "SelectedNode": "\\cypress\\integration\\Sharelan\\Sharelan\\openingsharelane.ts",
+  "SelectedNode": "\\cypress\\integration\\pageObjects\\automationpractice\\actions.ts",
   "PreviewInSolutionExplorer": false
 }
